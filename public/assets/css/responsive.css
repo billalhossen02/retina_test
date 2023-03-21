@@ -1,0 +1,708 @@
+@media(min-width: 540px) {
+
+    .header_infonumber,
+    .header_infoEmail {
+        display: block;
+    }
+    .payment_instruction img{
+        width: calc(95.33% - 0px);
+         margin: 20px;
+    }
+    .banner_section {
+        padding: 40px 0px;
+    }
+
+    .banner_heading_main {
+        font-size: 40px;
+        line-height: 54px;
+    }
+
+    .banner_heading_sub {
+        font-size: 40px;
+        line-height: 64px;
+    }
+
+    .section_padding {
+        padding: 40px 0px;
+    }
+
+    .instructor_card {
+        padding: 21px 30px;
+    }
+
+
+    .gallery_wrapper {
+        gap: 12px;
+    }
+
+    .video_section {
+        min-height: 400px;
+    }
+
+    .map_wrapper {
+        height: 217px;
+    }
+
+    .footer_item {
+        width: calc(50% - 20px);
+    }
+
+    .about_banner {
+        padding: 40px 0px;
+    }
+
+    .agreement_banner_content {
+        padding: 36px 40px;
+    }
+
+    .agreement_banner_text {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .agreement_school_wrapper {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 12px;
+    }
+
+    .courseBanner_btn_wrapper {
+        flex-direction: row;
+    }
+
+    .Discount_course_itemWRapper {
+        flex-direction: row;
+    }
+
+    .Discount_course_image {
+        width: 100%;
+        height: auto;
+        display: flex;
+    }
+
+    .coursefee_wrapper {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .studententry_form_thumbnail {
+        width: 150px;
+    }
+
+    .entry_upload_btn label {
+        font-size: 14px;
+    }
+
+    .form_logo {
+        max-width: 120px;
+    }
+
+    .viewcousre_item_wraper {
+        padding: 60px 50px;
+    }
+
+    .payment_item {
+        width: calc(50% - 12px);
+    }
+
+    .notice_wrapper {
+        padding: 80px 0px;
+    }
+
+    .form_submitBtn button {
+        padding: 14px 50px
+    }
+
+    .contact_form {
+        padding: 40px 30px;
+    }
+}
+
+@media(min-width: 768px) {
+    .social_link span svg {
+        width: auto;
+        height: auto;
+    }
+
+    .payment_instruction img{
+        width: calc(95.33% - 0px);
+        margin: 20px;
+    }
+
+    .social_link {
+        height: 32px;
+        width: 32px;
+    }
+
+    .header_info_text {
+        font-size: 18px;
+    }
+
+    .banner_wrapper {
+        flex-direction: row;
+    }
+
+    .banner_content {
+        width: 50%;
+    }
+
+    .banner_thumbnail {
+        width: calc(50% - 5%);
+    }
+
+    .banner_text {
+        font-size: 18px;
+    }
+
+    .banner_section {
+        padding: 50px 0px;
+    }
+
+    .section_padding {
+        padding: 50px 0px;
+    }
+
+    .about_card_item {
+        width: calc(50% - 12px);
+    }
+
+    .admission_wrapper {
+        flex-direction: row;
+    }
+
+    .admission_content {
+        max-width: 590px;
+        width: 100%;
+    }
+
+    .admission_thumb {
+        max-width: 460px;
+        width: 100%;
+    }
+
+    .instructor_wrapper {
+        flex-direction: row;
+    }
+
+    .instructor_thumb {
+        max-width: 580px;
+    }
+
+    .instructor_content {
+        max-width: 600px;
+    }
+
+    .course_details_wrapper {
+        flex-direction: row;
+    }
+
+    .course_details_thumb,
+    .course_details_content {
+        width: 48%;
+    }
+
+    .add_title {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .add_heading {
+        font-size: 24px;
+        line-height: 32px;
+    }
+
+    .add_text {
+        font-size: 18px;
+    }
+
+    .gallary_image {
+        grid-row: span 1;
+        grid-column: span 1;
+    }
+
+    .gallary_image3,
+    .gallary_image6 {
+        grid-row: span 2;
+        display: flex;
+        grid-column: span 1;
+    }
+
+    .add_section {
+        padding: 100px 0px;
+    }
+
+    .video_section {
+        min-height: 450px;
+    }
+
+    .video_popup_btn {
+        height: 106px;
+        width: 105px;
+    }
+
+    .map_wrapper {
+        max-width: 400px;
+    }
+
+    .global_contact_wrapper {
+        flex-direction: row;
+    }
+
+    .footer_wrapper {
+        flex-wrap: nowrap;
+    }
+
+    .footer_item {
+        width: auto;
+    }
+
+    .about_banner {
+        padding: 50px 0px;
+    }
+
+    .about_banner_wrapper {
+        flex-direction: row;
+    }
+
+    .about_banner_content {
+        max-width: 467px;
+    }
+
+    .our_seminar_wrapper {
+        flex-direction: row;
+    }
+
+    .our_seminar_vedio {
+        width: 49%;
+        position: relative;
+    }
+
+    .our_seminar_content {
+        width: 46%;
+    }
+
+    .agreement_banner_content {
+        padding: 36px 60px;
+    }
+
+    .agreement_banner_text {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .agreement_school_wrapper {
+        grid-template-columns: repeat(4, 1fr);
+        gap: 12px;
+    }
+
+    .agreement_school_title {
+        font-size: 30px;
+    }
+
+    .agreement_school_name {
+        font-size: 16px;
+    }
+
+    .coursePage_banner_wrapper {
+        flex-direction: row;
+    }
+
+    .coursePage_banner_content,
+    .coursePage_banner_thumb {
+        max-width: 530px;
+    }
+
+    .courseBanner_btn_wrapper {
+        flex-direction: column;
+    }
+
+    .all_course_wrapper {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .Discount_course_image {
+        max-width: 330px;
+        width: 100%;
+    }
+
+    .coursefee_wrapper {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .studententry_form_wrapper {
+        align-items: flex-start;
+        flex-direction: row;
+    }
+
+    .about_cousre_title h3 {
+        font-size: 24px;
+    }
+
+    .about_cousreList ul li {
+        font-size: 16px;
+    }
+
+    .about_cousreList ul {
+        gap: 20px;
+    }
+
+    .studententry_input_inner label {
+        font-size: 20px;
+    }
+
+    .studententry_input_inner {
+        gap: 20px;
+    }
+
+    .addform_middTiele h2 {
+        font-size: 28px;
+    }
+
+    .payment_item {
+        padding: 77px 20px;
+    }
+
+    .payment_item {
+        width: calc(33.33% - 16px);
+    }
+
+    .payment_content_title h3 {
+        font-size: 22px;
+    }
+
+    .Transaction_input_inner label {
+        font-size: 22px;
+    }
+
+    /* .Transaction_input_inner input {
+        height: 80px;
+    } */
+
+    .form_header {
+        justify-content: flex-end;
+    }
+
+    .main_heading h1 {
+        font-size: 30px;
+    }
+
+    .viewcousre_itemdetails_item {
+        flex-direction: row;
+    }
+
+    .verification_form_content {
+        padding: 100px 0px;
+    }
+
+    .notice_wrapper {
+        padding: 100px 0px;
+    }
+
+    .contact_form {
+        padding: 40px 50px;
+    }
+
+    .contact_form_item {
+        width: calc(50% - 12px);
+    }
+
+    .banner_shape1,
+    .banner_shape2,
+    .banner_shape3,
+    .banner_shape5,
+    .banner_shape6,
+    .banner_shape7 {
+        display: block;
+    }
+
+}
+
+@media(min-width: 1024px) {
+
+    .header_nav,
+    .header_btn {
+        display: block;
+    }
+    .mobilenav_content{
+        display: none;
+    }
+    .toggle_nav {
+        display: none;
+    }
+
+    .header_logo_image {
+        width: 80px;
+    }
+
+
+    .banner_section {
+        padding: 60px 0px;
+    }
+
+    .banner_heading_main {
+        font-size: 50px;
+        line-height: 74px;
+    }
+
+    .banner_heading_sub {
+        font-size: 50px;
+        line-height: 80px;
+    }
+
+    .admission_content_heading {
+        font-size: 40px;
+        line-height: 45px;
+    }
+
+    .admission_content_text {
+        margin: 25px 0px;
+    }
+
+    .instructor_content {
+        max-width: 600px;
+        width: 100%;
+        background: url(../image/card/instrucbg.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        min-height: 570px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .gallery_wrapper {
+        gap: 24px;
+    }
+
+    .add_section {
+        padding: 120px 0px;
+    }
+
+    .video_section {
+        min-height: 600px;
+    }
+
+    .global_contact_wrapper {
+        padding: 70px 80px;
+    }
+
+    .global_contact_heading {
+        font-size: 30px;
+        line-height: 42px;
+    }
+
+    .global_contactlist_text {
+        font-size: 18px;
+    }
+
+    .about_banner {
+        padding: 60px 0px;
+    }
+
+    .agreement_school_wrapper {
+        gap: 24px;
+    }
+
+    .agreement_school_name {
+        font-size: 18px;
+    }
+
+    .all_course_wrapper {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .Discount_course_wrapper {
+        flex-direction: row;
+    }
+
+    .Discount_course_image {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .coursefee_wrapper {
+        grid-template-columns: repeat(4, 1fr);
+    }
+
+    .studententry_input_inner {
+        align-items: center;
+        flex-direction: row;
+    }
+
+    .Transaction_input_inner {
+        flex-direction: row;
+    }
+
+    .form_submitBtn {
+        margin-top: 40px;
+    }
+
+    .verification_form_content {
+        padding: 150px 0px;
+    }
+
+    .notice_wrapper {
+        padding: 150px 0px;
+    }
+
+    .contact_form {
+        padding: 40px 60px;
+        width: 56%;
+    }
+
+    .contact_page_wrapper {
+        flex-direction: row;
+    }
+
+    .contact_thumb {
+        width: 36%;
+    }
+
+    .contact_form_item {
+        width: 100%;
+    }
+
+    .sticky .header_logo {
+        display: block;
+    }
+
+
+}
+
+@media(min-width: 1200px) {
+
+    .global_btn {
+        padding: 12px 31px;
+        font-size: 18px;
+    }
+
+    .payment_instruction img{
+        width: calc(100.33% - 16px);
+        margin: 20px;
+    }
+
+    .header_nav_link {
+        font-size: 18px;
+    }
+
+    .header_nav_list {
+        gap: 40px;
+    }
+
+    .banner_heading_main {
+        font-size: 45px;
+        line-height: 100px;
+    }
+
+    .banner_heading_sub {
+        font-size: 48px;
+        line-height: 100px;
+    }
+
+    .banner_section {
+        padding: 80px 0px;
+    }
+
+    .section_padding {
+        padding: 60px 0px;
+    }
+
+    .about_card_item {
+        width: calc(25% - 18px);
+    }
+
+    .add_section {
+        padding: 150px 0px;
+    }
+
+    .map_wrapper {
+        height: 270px;
+    }
+
+    .about_banner {
+        padding: 80px 0px;
+    }
+
+    .courseBanner_btn_wrapper {
+        flex-direction: row;
+    }
+
+    .discount_badge {
+        top: -50px;
+        left: -50px;
+    }
+
+    .notice_wrapper {
+        padding: 200px 0px;
+    }
+
+    .contact_form_item {
+        width: calc(50% - 12px);
+    }
+
+    .contact_form {
+        padding: 70px 80px;
+    }
+
+}
+
+
+
+
+/* 540px */
+
+@media (min-width: 540px) {
+    .studententry_input_inner {
+      flex-direction: row;
+      align-items: center;
+    }
+
+    .studententry_input_inner input {
+      max-width: 350px;
+    }
+  }
+
+  /* 768 */
+
+  @media (min-width: 768px) {
+    .page_title_text {
+      font-size: 30px;
+    }
+
+    .student_details_wrapper {
+      padding: 35px 40px;
+    }
+
+    .studententry_form_wrapper {
+      align-items: flex-start;
+      flex-direction: row;
+    }
+
+  }
+
+  /* 1024 */
+
+  @media (min-width: 1024px) {
+    .toggle_nav {
+      display: none;
+    }
+
+    .dashboard_sidebar {
+      left: 0px;
+    }
+
+    .dashboard_body {
+      margin-left: 265px;
+      width: calc(100% - 265px);
+    }
+
+    .dashboard_header {
+      justify-content: flex-end;
+    }
+
+  }
+
+  /* 1200 */
+
+  @media (min-width: 1200px) {}
+
+  @media(min-width: 1400px) {}
